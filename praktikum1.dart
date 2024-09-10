@@ -14,10 +14,3 @@ void main() {
 // Flutter. Dengan memahami bahasa pemrograman Dart, kita dapat membuat aplikasi
 // yang lebih kompleks dan interaktif dengan lebih mudah.
 
-// Soal 3
-// Rangkumlah materi dari codelab ini menjadi poin-poin penting yang dapat Anda gunakan untuk membantu proses pengembangan aplikasi mobile menggunakan framework Flutter.
-// 1. Untuk mempermudah pemahaman di pemrograman mobile dengan bahasa dart dan framework flutter diperlukan pengetahuan di algoritma pemrograman dasar dann pemorgraman berorientasi objek
-// 2. Pemahaman dasar-dasar bahasa pemrograman Dart dan framework
-// 3. Pemahaman dasar-dasar pengembangan aplikasi mobile dengan framework
-// 4. Pemahaman dasar-dasar penggunaan widget dan layout dalam framework
-// 5. Pemahaman dasar-dasar penggunaan state dan lifecycle dalam framework
